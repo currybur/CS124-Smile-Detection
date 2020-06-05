@@ -1,5 +1,5 @@
 # Smile Detection
-**glance at Python and sklearn, step into programming**
+**a glance at Python and sklearn, a step into programming**
 ***
 ### Introduction
 This is the final project of Introduction to Computation(CS124, given by Prof. Fan Cheng), with team member Xie Dongwei.  
